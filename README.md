@@ -4,7 +4,7 @@
 
 This is a website for Horiseon Social Solution Services, Inc. The code has been edited to make it more succint; no changes to the UI have been made.
 
-## Installation
+![You can access the website by clicking on this link.](https://sjkamens.github.io/module-1-challenge/)
 
 N/A
 
