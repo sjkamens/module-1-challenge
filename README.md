@@ -12,7 +12,7 @@ N/A
 
 It is a website for a company that provides various marketing services. The website UI has not been modified, and looked like, and, with the code improvements, continues to look like the following image:
 
-![Screenshot of Horiseon site](/assets/images/01-html-css-git-challenge-demo.png)
+[Screenshot of Horiseon site](/assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
